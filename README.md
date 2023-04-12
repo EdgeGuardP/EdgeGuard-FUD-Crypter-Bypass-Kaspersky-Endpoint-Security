@@ -25,5 +25,5 @@ If You're Going to Use It As Malicous, You Bear The Full Responsibility.
 - Output : Fully Native
 - Features : ChangeExtensions.
 
-If you have a question mark in your mind, you can contact me telegram : @edgeguard
+If you have a question mark in your mind, you can contact me telegram : @EGuardDeveloper
 
